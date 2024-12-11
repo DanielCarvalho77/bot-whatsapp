@@ -1,0 +1,18 @@
+# Ignorar node_modules
+node_modules/
+
+# Ignorar arquivos temporários
+*.log
+*.tmp
+
+# Ignorar configurações de IDE
+.vscode/
+.idea/
+
+# Ignorar diretórios de sessão e cache
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Ignorar arquivos de lock e configuração do npm
+package-lock.json
+npm-debug.log
